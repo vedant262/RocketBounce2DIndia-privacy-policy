@@ -1,41 +1,92 @@
-# Privacy Policy
+# Privacy Policy for RocketBounce2DIndia
 
-Last updated: December 2025
+**Last Updated:** December 2025
 
-RocketBounce2DIndia (the "App") is a free mobile game developed for entertainment purposes.
+RocketBounce2DIndia is a free 2D mobile game developed for entertainment purposes. This Privacy Policy explains how information is handled when using the app.
 
-## Information Collection and Use
+---
 
-RocketBounce2DIndia does **not collect, store, or share any personal user data** directly.
+## 1. Information We Collect
 
-However, the app uses third-party advertising services that may collect certain information automatically.
+We do not require account creation or personal information to use the app.
 
-## Third-Party Services
+We do not directly collect or store personal data.
+
+However, third-party services integrated into the app may automatically collect certain information.
+
+---
+
+## 2. Advertisements
 
 This app uses **Google AdMob** to display advertisements.
 
-Google AdMob may collect information such as:
-- Device information
-- Advertising ID
-- Usage data
+AdMob may collect and process data such as:
 
-This information is used to provide and improve advertising services.
+- Device information  
+- Advertising ID  
+- IP address  
+- Approximate location  
+- Usage data  
 
-You can learn more about how Google uses data here:  
+This data may be used to:
+
+- Serve advertisements  
+- Improve ad performance  
+- Prevent fraud and abuse  
+
+Ads may be **personalized or non-personalized** depending on your region and device settings.
+
+You can control ad personalization through your device settings.
+
+For more details, see Google’s Privacy Policy:  
 https://policies.google.com/privacy
 
-## Children’s Information
+---
 
-RocketBounce2DIndia does not knowingly collect any personally identifiable information from children under the age of 13.
+## 3. Children's Information
 
-If you believe that a child has provided personal information through this app, please contact us and we will take appropriate action.
+This app is intended for a **general audience** and is not specifically directed to children under 13.
 
-## Changes to This Privacy Policy
+We do not knowingly collect personal data from children.
 
-This Privacy Policy may be updated from time to time. Any changes will be posted on this page.
+If you believe that a child has provided personal information, please contact us so we can take appropriate action.
 
-## Contact Us
+---
 
-If you have any questions or suggestions about this Privacy Policy, contact us at:
+## 4. Third-Party Services
 
-Email: rajputvedant52@gmail.com
+We use:
+
+- Google AdMob (Google LLC)
+
+---
+
+## 5. Data Security
+
+We do not store personal data on our own servers.
+
+Third-party services may handle data securely according to their own privacy policies.
+
+---
+
+## 6. User Choices
+
+You can limit or disable ad personalization through your device settings.
+
+Depending on your region, you may have rights related to your personal data.
+
+---
+
+## 7. Changes to This Privacy Policy
+
+This Privacy Policy may be updated from time to time.
+
+Any changes will be posted on this page.
+
+---
+
+## 8. Contact
+
+If you have any questions, contact:
+
+**Email:** rajputvedant52@gmail.com
