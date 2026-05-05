@@ -1,6 +1,6 @@
 # Privacy Policy for RocketBounce2DIndia
 
-**Last Updated:** December 2025
+**Last Updated:** May 2026
 
 RocketBounce2DIndia is a free 2D mobile game developed for entertainment purposes. This Privacy Policy explains how information is handled when using the app.
 
